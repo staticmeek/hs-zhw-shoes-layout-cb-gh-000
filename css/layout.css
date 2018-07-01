@@ -38,7 +38,7 @@
     clear: both;
     margin-bottom: 2%;
   }
-  
+
   .row:after {
     content: ".";
     display: block;
@@ -59,4 +59,3 @@
 
   .col-4 { width: 32%; }
   .col-8 { width: 66%; }
-
