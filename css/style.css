@@ -305,12 +305,13 @@ footer a {
 /* code examples copyright Jonathan Grover 2012 */
 
 .col-1{
+  margin-left: 
   float: left;
 }
 
 .col-2{
   float: right;
-  width: 40%;  
+  width: 40%;
 }
 
 .col-3{
