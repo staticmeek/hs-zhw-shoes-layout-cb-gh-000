@@ -309,6 +309,7 @@ footer a {
 }
 
 .col-2{
+  float: right;
   width: 40%;
   background: #ccc;
 }
