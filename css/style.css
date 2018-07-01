@@ -303,3 +303,9 @@ footer a {
 }
 
 /* code examples copyright Jonathan Grover 2012 */
+
+.col-1{
+  float: left;
+  width: 32%;
+  background: #ccc;
+}
